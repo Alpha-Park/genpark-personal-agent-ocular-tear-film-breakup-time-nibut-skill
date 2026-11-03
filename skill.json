@@ -1,0 +1,23 @@
+{
+  "name": "genpark-personal-agent-ocular-tear-film-breakup-time-nibut-skill",
+  "version": "1.0.0",
+  "description": "Calculates Non-Invasive Tear Film Break-Up Time (First NIBUT, Average NIBUT), Ocular Protection Index (OPI), and Tear Stability Index (TSI%) according to TFOS DEWS II guidelines.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "ophthalmology",
+    "optometry",
+    "tear-film",
+    "nibut",
+    "dry-eye",
+    "tfos-dews-ii",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
